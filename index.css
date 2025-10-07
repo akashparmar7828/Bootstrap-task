@@ -1,0 +1,25 @@
+#overview{
+color: #919EAB;
+}
+.app{
+    background-color: #007e8c28;
+    color: #008A8C 8%;
+}
+.management{
+    color: #919EAB;
+}
+.welcome{
+    background-color: grey;
+}
+.areaInstalled{
+    
+    height: 330px;
+    width: auto;
+}
+.table{
+    width: 100px;
+}
+#navbarSupportedContent ul li:hover{
+    background-color:#007e8c28 ;
+    color: #008A8C 8%;
+}
